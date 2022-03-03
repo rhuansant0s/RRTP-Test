@@ -1,1 +1,1 @@
-# Rhuan Santos Printed Editions contract
+# RareType test contract
